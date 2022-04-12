@@ -19,12 +19,13 @@
 127.0.0.1 dit.whatsapp.net
 
 # Instagram
-star.c10r.facebook.com
-mqtt.c10r.facebook.com
-edge-mqtt.facebook.com
-telegraph-ash.instagram.com
-white.ish.instagram.com
-instagram.c10r.facebook.com
+127.0.0.1 star.c10r.facebook.com
+127.0.0.1 mqtt.c10r.facebook.com
+127.0.0.1 edge-mqtt.facebook.com
+127.0.0.1 telegraph-ash.instagram.com
+127.0.0.1 white.ish.instagram.com
+127.0.0.1 instagram.c10r.facebook.com
+127.0.0.1 instagram.com/reel
 
 # Apple
 127.0.0.1 app-measurement.com
