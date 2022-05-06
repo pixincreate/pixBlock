@@ -1,14 +1,13 @@
-# This hosts file is created by PiX.
+# This hosts file is created by PiX
+# Blocking mobile ad providers and some analytics providers
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/pixincreate/PiX_Hosts/main/hosts.txt
 
-###############################################################
-# DEFINES YOUR LOCAL HOST ENVIRONMENT, HELPS ASSURE NO ESCAPE #
-###############################################################
-127.0.0.1 localhost
-::1 localhost
+127.0.0.1  localhost
+::1  localhost
 
-################################
-
-# WhatsApp 
+# [WhatsApp]
 127.0.0.1 privatestats.whatsapp.net
 127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 graph.whatsapp.net
@@ -19,7 +18,7 @@
 127.0.0.1 dit.whatsapp.net
 127.0.0.1 static.whatsapp.net
 
-# Instagram
+# [Instagram]
 127.0.0.1 star.c10r.facebook.com
 127.0.0.1 mqtt.c10r.facebook.com
 127.0.0.1 edge-mqtt.facebook.com
@@ -30,7 +29,7 @@
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 graph.instagram.com
 
-# Apple
+# [Apple]
 127.0.0.1 app-measurement.com
 127.0.0.1 metrics.apple.com
 127.0.0.1 securemetrics.apple.com
@@ -277,7 +276,7 @@
 127.0.0.1 metrics.mzstatic.com
 127.0.0.1 store.mzstatic.com
 
-# Nvidia
+# [Nvidia]
 127.0.0.1 gfwsl.geforce.com
 127.0.0.1 telemetry.gfe.nvidia.com
 127.0.0.1 gfe.nvidia.com
@@ -292,7 +291,7 @@
 127.0.0.1 telemetry-dce.gfe.nvidia.com
 127.0.0.1 events-dc1.gfe.nvidia.com
 
-# Porn
+# [Porn]
 127.0.0.1 pornhub.com
 127.0.0.1 pornhub.net
 127.0.0.1 pornhub.org
@@ -303,7 +302,7 @@
 127.0.0.1 beeg.com
 127.0.0.1 redtube.com
 
-# Microsoft
+# [Microsoft]
 127.0.0.1 134.170.30.202
 127.0.0.1 137.116.81.24
 127.0.0.1 204.79.197.200
