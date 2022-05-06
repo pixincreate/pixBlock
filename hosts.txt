@@ -355,9 +355,8 @@
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 wes.df.telemetry.microsoft.com
 
-# Google | crap from Doubleclick - mostly ad/spyware servers
+# [Google | crap from Doubleclick - mostly ad/spyware servers]
 127.0.0.1 clients.l.google.com
-
 127.0.0.1 conversion-pixel.invitemedia.com
 127.0.0.1 analytics-api-samples.googlecode.com
 127.0.0.1 m1.2mdn.net
