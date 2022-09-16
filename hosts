@@ -7,6 +7,9 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# [Filen.io]
+127.0.0.1 analytics.filen.io
+
 # [WhatsApp]
 127.0.0.1 privatestats.whatsapp.net
 127.0.0.1 crashlogs.whatsapp.net
