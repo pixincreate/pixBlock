@@ -1,8 +1,7 @@
 # pixBlock
-Host list for Blocking based on my taste and usage.
+Host list for Blocking based on my taste and usage
 
-I use AdAway.  
-Here're my lists:
+I use AdAway and here're my lists:
 - https://adaway.org/hosts.txt
 - https://raw.githubusercontent.com/pixincreate/pixBlock/main/hosts
 - https://raw.githubusercontent.com/pixincreate/pixBlock/main/hosts
