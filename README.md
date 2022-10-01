@@ -1,4 +1,4 @@
-# PiX_Hosts
+# pixBlock
 Host list for Blocking based on my taste and usage.
 
 I use AdAway.  
