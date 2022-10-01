@@ -358,6 +358,36 @@
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 wes.df.telemetry.microsoft.com
 
+# # [Microsoft - Connected User Experiences and Telemetry]
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
+vortex.data.microsoft.com.akadns.net
+vortex-sandbox.data.microsoft.com
+
+# [Microsoft - Unclassified]
+127.0.0.1 telemetry.microsoft.com
+127.0.0.1 telemetry.urs.microsoft.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 redir.metaservices.microsoft.com
+127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 telemetry.appex.bing.net
+127.0.0.1 watson.live.com
+127.0.0.1 watson.microsoft.com
+127.0.0.1 feedback.search.microsoft.com
+127.0.0.1 feedback.windows.com
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 diagnostics.support.microsoft.com
+127.0.0.1 i1.services.social.microsoft.com
+127.0.0.1 cache.datamart.windows.com
+127.0.0.1 diagnostics.support.microsoft.com
+127.0.0.1 spynet2.microsoft.com
+127.0.0.1 spynetalt.microsoft.com
+
+# [Microsoft - Office Telemetry]
+127.0.0.1 onecollector.cloudapp.aria.akadns.net
+127.0.0.1 prod.nexusrules.live.com.akadns.net
+
 # [Google | crap from Doubleclick - mostly ad/spyware servers]
 127.0.0.1 clients.l.google.com
 127.0.0.1 conversion-pixel.invitemedia.com
@@ -466,3 +496,14 @@
 127.0.0.1 ad.mirror.co.uk
 127.0.0.1 host3.adhese.be
 127.0.0.1 mcmads.mediacapital.pt
+
+# [MIUI Trakers]
+127.0.0.1 sa.api.intl.miui.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 tracking.rus.miui.com
