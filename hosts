@@ -507,3 +507,9 @@ vortex-sandbox.data.microsoft.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.rus.miui.com
+
+# [Samsung]
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 insights.samsung.com
+127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
