@@ -513,3 +513,26 @@ vortex-sandbox.data.microsoft.com
 127.0.0.1 insights.samsung.com
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 bigdata.ssp.samsung.com
+
+# [Snapchat]
+127.0.0.1 analytics.snapchat.com
+127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 app-analytics-v2.snapchat.com
+127.0.0.1 snapchat-proxy.appspot.com
+127.0.0.1 bolt-gcdn.sc-cdn.net
+127.0.0.1 gtq6.sct.sc-prod.net
+127.0.0.1 us-east1-aws.api.snapchat.com
+127.0.0.1 gcp.api.snapchat.com # This might break functionality
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 adsapi.snapchat.com
+127.0.0.1 asia-southeast1-gcp.api.snapchat.com
+127.0.0.1 aws-cf.api.snapchat.com
+127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 app-analytics-v2.snapchat.com
+127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 ads-interfaces.sc-cdn.net
+127.0.0.1 ase.adserver.snapads.com
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 snapads.com
+127.0.0.1 us-east1-aws.api.snapchat.com
+127.0.0.1 bolt-gcdn.sc-cdn.net
